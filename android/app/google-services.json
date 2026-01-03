@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236716298190",
+    "project_id": "iic-attendance-manager",
+    "storage_bucket": "iic-attendance-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236716298190:android:73d520428943398c88659f",
+        "android_client_info": {
+          "package_name": "com.example.iic_attendance_app_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUbYDao9q45-QL7eJmgezu830jYmeeERo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
