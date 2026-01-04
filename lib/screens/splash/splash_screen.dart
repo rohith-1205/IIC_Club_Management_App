@@ -74,7 +74,7 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
             const SizedBox(height: 20),
             const Text(
-              'IIC HUB 8.0',
+              'IIC Attendance System',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
