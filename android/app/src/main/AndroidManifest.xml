@@ -5,7 +5,7 @@
     android:maxSdkVersion="28" />
     <application
         
-        android:label="IIC Attendance App"
+        android:label="IIC HUB 8.0"
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true"
         android:name="${applicationName}">
