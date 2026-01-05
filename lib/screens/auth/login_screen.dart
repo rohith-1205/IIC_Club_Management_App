@@ -81,7 +81,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         ),
                         const SizedBox(height: 16),
                         const Text(
-                          'IIC Management System',
+                          'AMRITA IIC HUB 8.0',
                           style: TextStyle(
                             fontSize: 22,
                             fontWeight: FontWeight.bold,
